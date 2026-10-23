@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subaru486desuwa.github.io/sitemap.xml
